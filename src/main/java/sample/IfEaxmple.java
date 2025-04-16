@@ -1,3 +1,5 @@
+package sample;
+
 public class IfEaxmple {
     public static void main(String[] args) {
         System.out.println("Hello, Tim");
